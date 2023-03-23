@@ -5,7 +5,7 @@ public class LandingPage{
     static void display(){
         System.out.print("\n---------- Menu ----------\n"
         + "1. User registering Page\n"
-        + "2. User reset password page\n"
+        + "2. About Us\n"
         + "3. ReadMe\n"
         + "0. Exit\n"
         + "Please choose your option: ");
@@ -24,6 +24,7 @@ public class LandingPage{
             System.out.println();
             switch(choice){
                 case 1: System.out.println("Hello");pause();break;
+                case 2: System.out.println("Hello World");pause();break;
                 default: System.out.println("\nPlease enter between 0 and 3\n");break;
             }
         }
