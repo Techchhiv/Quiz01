@@ -1,4 +1,4 @@
-1)First/landing page => YOU
+1)First/landing page => YOU\n
 2)User registering page
 3)User reset password page
 4)User login page
