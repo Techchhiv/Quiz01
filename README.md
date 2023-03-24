@@ -1,11 +1,9 @@
-1. First/landing page => YOU
+## Quiz 01
+
+1. First/landing page => ME
 2. User registering page => Tito-Tom
-3. User reset password page
-4. User login page
-5. List of test results for a user
-6. User typing test page
-7. About Us page => Chhay2
-8. README.md (document on how to setup, compile, and run project locally) => daraaveasna
+3. About Us page => Chhay2
+4. README.md (document on how to setup, compile, and run project locally) => daraaveasna
 
 ## Typing Test Application
 
