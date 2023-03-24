@@ -1,4 +1,4 @@
-## Quiz 01
+## Quiz01
 
 1. First/landing page => ME
 2. User registering page => Tito-Tom
